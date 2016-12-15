@@ -1,0 +1,11 @@
+/* Styles go here */
+a, a:visited, a:active {
+	color: white;
+}
+
+#paperCanvas {
+	zoom: 1;
+	border-width: 10px;
+	border-style: solid;
+	border-color: blue;
+}
